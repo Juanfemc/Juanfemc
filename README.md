@@ -11,7 +11,7 @@
 
 - 📫 Contactame por **juanfemc18@gmail.com**
 
-- 🌱 Aprendiento **JavaScript y Python**
+- 🌱 Aprendiendo **JavaScript y Python**
 
 - 🌐 Mi sitio Web [https://juanfe.netlify.app/](https://juanfe.netlify.app/)
 
