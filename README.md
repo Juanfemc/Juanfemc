@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/Dk57URqjqjHjNGHeMV/giphy.gif" alt="Perro Progamando" width="190" />
     <h1 align="center">Hola, Soy Juan Felipe👽</h1>
-        <h3 align="center">Apasionado por el Desarrollo Web Frontend, La música y Los Videojuegos, Soy De Tumaco, Nariño - Colombia. Estudiante de Ingeniería de Sistemas en la Universidad de Nariño</h3>
+        <h3 align="center">Apasionado por el Desarrollo Web Frontend, La música y Los Videojuegos, Soy De Tumaco, Nariño - Colombia. Ingeniero de Sistemas y Desarrollador Web</h3>
 
 </div>
 
@@ -9,9 +9,9 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📫 Contactame por **juanfemc18@gmail.com**
+- 📫 Contactame por **juanfemc18oficcial@gmail.com**
 
-- 🌱 Aprendiendo **JavaScript y Python**
+- 🌱 Aprendiendo **TypeScript**
 
 - 🌐 Mi sitio Web [https://juanfe.netlify.app/](https://juanfe.netlify.app/)
 
